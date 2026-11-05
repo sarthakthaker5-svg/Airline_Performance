@@ -20,6 +20,25 @@
 
 ---
 
+# 🎥 Project Demo Video
+
+<p align="center">
+
+<a href="https://drive.google.com/file/d/1QgUAJUPZn8G9amp1vCxm4tl4yvZGXkTw/view" target="_blank">
+
+<img src="https://img.shields.io/badge/▶️%20Watch%20Project%20Demo-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
+
+</a>
+
+</p>
+
+> 📺 Click the button above to watch the complete project demonstration and SQL explanation video.
+---
+---
+## Project File
+https://drive.google.com/file/d/1yY3wLHEq0IBCt7OQC6nGAJOnxXVPVph1/view
+---
+
 ## 📖 Project Overview
 
 The **Airline Flight Delays Analysis Dashboard** is an interactive Power BI project designed to analyze airline operations and flight performance from **2019 to 2023**.
