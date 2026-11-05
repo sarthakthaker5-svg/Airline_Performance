@@ -249,6 +249,71 @@ The dashboard helps answer questions such as:
 
 ---
 
+---
+# 📸 Project Output
+
+## Home Page
+
+<p align="center">
+  <img src="Home Page.png" width="900" alt="Database">
+</p>
+
+---
+
+---
+# 📸 Project Output
+
+## Overview
+
+<p align="center">
+  <img src="Overview.png" width="900" alt="Overview">
+</p>
+
+---
+
+---
+# 📸 Project Output
+
+## Airlline Performance
+
+<p align="center">
+  <img src="Airline Performance.png" width="900" alt="Airline Performance">
+</p>
+
+---
+
+## Drill
+
+<p align="center">
+  <img src="Drill.png" width="900" alt="Drill">
+</p>
+
+---
+
+## Route 
+
+<p align="center">
+  <img src="Route.png" width="900" alt="Route">
+</p>
+
+---
+
+## Trends
+
+<p align="center">
+  <img src="Trends.png" width="900" alt="Trends">
+</p>
+
+---
+
+## Tooltip
+
+<p align="center">
+  <img src="Tooltip.png" width="900" alt="Tooltip">
+</p>
+
+---
+
 ## 🎨 Dashboard Design
 
 The report follows a consistent **Red and White professional design theme**.
