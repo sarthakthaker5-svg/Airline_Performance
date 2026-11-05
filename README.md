@@ -274,10 +274,10 @@ The dashboard helps answer questions such as:
 ---
 # 📸 Project Output
 
-## Airlline Performance
+## Airline Performance
 
 <p align="center">
-  <img src="Airline Performance.png" width="900" alt="Airline Performance">
+  <img src="Airlie Performance.png" width="900" alt="Airline Performance">
 </p>
 
 ---
